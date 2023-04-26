@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,6 +11,7 @@
     <title>DIRETORIA DE GOVERNANÇA DE LICITAÇÕES E CONTRATOS</title>
 
 </head>
+
 <body class="bg-light">
     <header class="navbar sticky-top bg-success shadow-lg">
         <nav class="container-fluid ">
@@ -23,6 +25,7 @@
         <div class="row rounded-0 content">
             <div class="col-sm-4 p-0 ">
                 <div class="list-group rounded-0" id="list-tab" role="tablist">
+                
                     {{#each tabs}}
                     <a class="p-3 list-group-item list-group-item-secondary {{#if @first}}active{{/if}} {{#if @last}} shadow-sm{{/if}}" id="list-{{name}}-list" data-bs-toggle="list"
                         href="#list-{{name}}" role="tab" aria-controls="list-{{name}}">{{title}}</a>                    
@@ -69,6 +72,7 @@
                             </div>
                             {{/each}}                          
                         {{/if}}
+
                     </div>
                     {{/each}}                  
                 </div>
@@ -88,4 +92,5 @@
     <script src="src/js/bootstrap.min.js"></script>
      
 </body>
+
 </html>
