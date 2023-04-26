@@ -1,0 +1,82 @@
+{
+    "tabs": [
+        {
+        "name": "inicio",
+        "title": "Área do Agente Público - Apresentação",
+        "content": {
+            "header": "Área do Agente Público - Apresentação",
+            "text": [
+                "Os agentes públicos responsáveis pelas atividades de licitações e contratos administrativos enfrentam grandes desafios devido à vasta quantidade de legislações e normas que regem o tema , o que pode dificultar o desempenho de suas funções.",
+                "Nesse contexto, este espaço oferece aos agentes públicos acesso a fluxogramas detalhados dos processos, modelos de minutas, listas de verificação, orientações jurídicas e normativas locais que visam aprimorar e garantir a segurança e eficácia das atividades relacionadas às contratações públicas."
+            ]
+            }
+        },
+        {
+            "name": "listas",
+            "title": "Listas de Verificação - Checklists",
+            "content": {
+                "header": "Listas de Verificação - Checklists",
+                "text": [
+                    "As listas de verificação têm o objetivo de ser um guia para o agente público responsável pela instrução do processo, bem como ser um instrumento de conferência do trabalho realizado.",
+                    "A lista deve ser preenchida pela Secretaria Demandante como instrumento de transparência e eficiência durante a fase de instrução do processo para permitir a conferência das exigências mínimas nela contidas, devendo ser juntada ao processo antes da remessa ao órgão de assessoramento jurídico.",
+                    "A Secretaria Demandante deverá atestar expressamente o preenchimento dos checklists, correspondentes à natureza do processo, naquilo que for aplicável, sob pena de não recebimento da solicitação. A ausência de qualquer um dos requisitos obrigatórios para a contratação elencados nos checklists importará no não prosseguimento da solicitação e na devolução do expediente à Secretaria Demandante para complementação."
+                ]
+             }
+        },
+        {
+            "name": "modelos",
+            "title": "Modelos de Termos de Referência, Editais e Contratos ",
+            "content": {
+                "header": "Modelos de Termos de Referência, Editais e Contratos ",
+                "text": [
+                    "Os Termos de Referência, Minutas de Contratos e Minuta de Edital da Dispensa Eletrônica foram elaborados com base na disciplina conferida pela Lei n.º 14.133/21 (Nova Lei de Licitações e Contratos Administrativos).",
+                    "Veja nos botões abaixo os modelos de Termos de Referência, Minutas de Contratos e Minuta de Edital da Dispensa Eletrônica disponíveis."
+                ],
+                "pills": [
+                    {
+                        "name": "termos",
+                        "title": "Termos de Referência", 
+                        "custom": "Termos",
+                        "content": [
+                            "Os Termos de Referência, Minutas de Contratos e Minuta de Edital da Dispensa Eletrônica foram elaborados com base na disciplina conferida pela Lei n.º 14.133/2 (Nova Lei de Licitações e Contratos Administrativos). ",
+                            "Veja abaixo os modelos de Termos de Referência:"
+                        ]
+                    },
+                    {
+                        "name": "editais",
+                        "title": "Editais", 
+                        "content": [
+                            "Os Termos de Referência, Minutas de Contratos e Minuta de Edital da Dispensa Eletrônica foram elaborados com base na disciplina conferida pela Lei n.º 14.133/2 (Nova Lei de Licitações e Contratos Administrativos). ",
+                            "Veja abaixo os modelos de Termos de editais:"
+                        ]
+                    },
+                    {
+                        "name": "contratos",
+                        "title": "Contratos", 
+                        "content": [
+                            "Os Termos de Referência, Minutas de Contratos e Minuta de Edital da Dispensa Eletrônica foram elaborados com base na disciplina conferida pela Lei n.º 14.133/2 (Nova Lei de Licitações e Contratos Administrativos). ",
+                            "Veja abaixo os modelos de Termos de editais:"
+                        ]
+                    }
+                ],
+                "files": [
+                    {
+                        "title": "Arquivo 1",
+                        "date": "20/01/2023",
+                        "url": "/assets/docs/test.pdf"
+                    }
+                ]                
+            }
+        },
+        {
+            "name": "bancos",
+            "title": "Banco de Documentos - Diversos",
+            "content": {
+                "header": "Banco de Documentos - Diversos",
+                "text": [
+                    "O banco de documentos da Lei 14.133 é uma ferramenta indispensável para os agentes públicos que lidam com licitações e contratos administrativos. Nele, é possível encontrar uma ampla variedade de documentos e modelos, com minutas de despachos, autorizações, justificativas, planilhas, pareceres jurídicos, entre outros, que podem ser utilizados como referência para a elaboração e condução de processos licitatórios. Com acesso a esses documentos, os agentes públicos podem exercer suas atividades com mais segurança e eficácia, seguindo os princípios e diretrizes estabelecidos na Lei 14.133. "
+                ]                
+            }
+        }
+]
+}
