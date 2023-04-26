@@ -1,0 +1,12 @@
+body {
+    font-size: 16px;
+    background-color: #fff;
+}
+
+a {
+    font-weight: 500;
+}
+
+.content {
+    min-height: 800px;
+}
