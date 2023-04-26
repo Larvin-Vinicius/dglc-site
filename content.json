@@ -40,7 +40,14 @@
                         "content": [
                             "Os Termos de Referência, Minutas de Contratos e Minuta de Edital da Dispensa Eletrônica foram elaborados com base na disciplina conferida pela Lei n.º 14.133/2 (Nova Lei de Licitações e Contratos Administrativos). ",
                             "Veja abaixo os modelos de Termos de Referência:"
-                        ]
+                        ],
+                        "files": [
+                            {
+                                "title": "Arquivo 1",
+                                "date": "20/01/2023",
+                                "url": "/assets/docs/test.pdf"
+                            }
+                        ] 
                     },
                     {
                         "name": "editais",
@@ -48,7 +55,14 @@
                         "content": [
                             "Os Termos de Referência, Minutas de Contratos e Minuta de Edital da Dispensa Eletrônica foram elaborados com base na disciplina conferida pela Lei n.º 14.133/2 (Nova Lei de Licitações e Contratos Administrativos). ",
                             "Veja abaixo os modelos de Termos de editais:"
-                        ]
+                        ],
+                        "files": [
+                            {
+                                "title": "Arquivo 2",
+                                "date": "20/01/2023",
+                                "url": "/assets/docs/test.pdf"
+                            }
+                        ] 
                     },
                     {
                         "name": "contratos",
@@ -56,16 +70,17 @@
                         "content": [
                             "Os Termos de Referência, Minutas de Contratos e Minuta de Edital da Dispensa Eletrônica foram elaborados com base na disciplina conferida pela Lei n.º 14.133/2 (Nova Lei de Licitações e Contratos Administrativos). ",
                             "Veja abaixo os modelos de Termos de editais:"
-                        ]
+                        ],
+                        "files": [
+                            {
+                                "title": "Arquivo 3",
+                                "date": "20/01/2023",
+                                "url": "/assets/docs/test.pdf"
+                            }
+                        ]                         
                     }
                 ],
-                "files": [
-                    {
-                        "title": "Arquivo 1",
-                        "date": "20/01/2023",
-                        "url": "/assets/docs/test.pdf"
-                    }
-                ]                
+                "files": []                
             }
         },
         {
