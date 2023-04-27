@@ -59,6 +59,14 @@
                                 {{#each content}}
                                     <p class="{{#if @first}}pt-4{{/if}}">{{this}}</p>
                                 {{/each}}
+                                {{#if files}}
+                                    {{#each files}}
+                                    <div>
+                                        <p class="file-link">{{title}}</p>
+                                        <a href="{{url}}" title="{{title}}">{{title}}</a>
+                                    </div>
+                                    {{/each}}
+                                {{/if}}                                
                             </div>
                             {{/each}}                          
                         </div>                         
